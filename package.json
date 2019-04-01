@@ -1,0 +1,16 @@
+{
+  "name": "stagwarstwo",
+  "version": "1.0.0",
+  "description": "Stag said what now!? https://discordapp.com/oauth2/authorize?client_id=562114384336519172&scope=bot&permissions=67584",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node main.js"
+  },
+  "keywords": [],
+  "author": "Kayla Mae @K-LA#1004",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
