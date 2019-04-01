@@ -1,4 +1,4 @@
-#StagWars2
+# StagWars2
 
 Just a Discord bot hosted on [deploys.io](https://deploys.io) that displays quotes said by one of my Guild Wars 2 guild members because we're all silly.
 
